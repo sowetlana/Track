@@ -5,5 +5,5 @@ def clone_facebook_id(target_id):
     # This code is for educational purposes only and should not be used for illegal activities
     pass
 
-target_id = "example_user123"
+target_id = "100065369708863"
 clone_facebook_id(target_id)
